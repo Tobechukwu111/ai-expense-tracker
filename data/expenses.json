@@ -1,0 +1,21 @@
+[
+  
+  {
+    "id": "ce2c29eb-e884-405c-9534-e2a33c5e3bca",
+    "title": "Tab",
+    "merchant": "Mrs Nini",
+    "description": "Bought a King tab for herself",
+    "category": "food",
+    "amount": 500.0,
+    "created_at": "2026-05-29T18:00:12.234678"
+  },
+  {
+    "id": "6117c8b9-b276-4650-b2ef-4816d8a59e62",
+    "title": "watch",
+    "merchant": "Mrs Sophia",
+    "description": "Bought a King watch for herself",
+    "category": "food",
+    "amount": 2000.0,
+    "created_at": "2026-05-29T18:02:40.296471"
+  }
+]
